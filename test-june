@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<title>Project: Holiday card</title>
+
+		<style>
+
+			h1 {color:rgb(224, 33, 224);
+
+			}
+
+			h2 {color:rgb(222, 53, 222);
+			}
+			body {background-color:rgb(92, 179, 41);
+			}
+			.song_lyrics {color:rgb(222, 53, 222);
+			}
+			#rabit_eulogy {color:rgb(200, 53, 222);
+			}
+		</style>
+
+
+	</head>
+	<body>
+
+		<h1>Happy Thanksgiving</h1>
+
+		<p class="song_lyrics">Little Bunny Foo Foo, <br>
+
+		I don't want to see you <br>
+
+		scooping up the field mice <br>
+
+		and bopping them on the head!</p>
+
+
+
+
+		<ol>
+
+			<li>ddihifeih</li>
+
+			<li>ddihifeih</li>
+			<li>ddihifeih</li>
+
+		</ol>
+
+
+		<p class="song_lyrics">Little Bunny Foo Foo, <br>
+
+		You smell stinky <br>
+
+		Go to sleep <br>
+
+		maybe baby </p>
+
+
+
+
+		<h2> okay buckwheat</h2>
+
+
+		<h2 id="rabit_eulogy">Rabbit Eulogy</h2>
+
+		<img src="https://www.kasandbox.org/programming-images
+		/avatars/duskpin-ultimate.png" alt="avatar" height="200">
+
+
+	</body>
+
+</html>
